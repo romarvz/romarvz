@@ -7,7 +7,7 @@ I combine data, technology, and design to create functional, visual, and strateg
 ---
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=romarvz&label=Profile%20views&color=ffc0cb&style=flat" alt="romarvz" /> 
+  <img src="https://komarev.com/ghpvc/?username=romarvz&label=Profile%20views&color=ff69b4&style=flat" alt="romarvz" /> 
 </p>
 
 
