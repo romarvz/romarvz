@@ -55,7 +55,7 @@ Práctico, estético y orientado a resultados.
 
 ## 🚩 Proyectos destacados
 
-- [Proyecto 1](https://github.com/romarvz/proyecto1): Automatización de reportes para área comercial.
+- [Análisis de Datos - Cambio Climático](https://github.com/romarvz/Stanford-Python-Project): Automatización de reportes para área comercial.
 - [Proyecto 2](https://github.com/romarvz/proyecto2): Dashboard interactivo de visualización de datos de clientes.
 - [Proyecto 3](https://github.com/romarvz/proyecto3): Plataforma web para capacitación interna.
 
