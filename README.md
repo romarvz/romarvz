@@ -7,7 +7,7 @@ I combine data, technology, and design to create functional, visual, and strateg
 ---
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=romarvz&label=Profile%20views&color=0e75b6&style=flat" alt="romarvz" /> 
+  <img src="https://komarev.com/ghpvc/?username=romarvz&label=Profile%20views&color="pink"&style=flat" alt="romarvz" /> 
 </p>
 
 
@@ -55,6 +55,11 @@ Practical, aesthetic, and results-oriented.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=romarvz&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romarvz&layout=compact&theme=radical)
+
+<p align = "center">
+	<img src = "https://github.com/romarvz/romarvz/blob/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
+</p>
+
 
 ---
 
