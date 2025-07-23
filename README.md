@@ -1,29 +1,29 @@
-<!-- ¡Hola! 👋 Soy Roma -->
+<!-- Hi! 👋 I'm Roma -->
 
 # 👩‍💻 Roma | Data Engineer · Software Developer · Designer
 
-Combino datos, tecnología y diseño para crear soluciones funcionales, visuales y estratégicas que generan impacto.
+I combine data, technology, and design to create functional, visual, and strategic solutions that generate impact.
 
 ---
 
-## 🚀 Sobre mí
+## 🚀 About Me
 
-Profesional curiosa, creativa y resolutiva, apasionada por los datos, el desarrollo tecnológico y el diseño visual funcional.  
-Esta combinación me permite crear herramientas útiles, eficientes y con identidad propia.
+Curious, creative, and resourceful professional, passionate about data, technological development, and functional visual design.  
+This combination allows me to create useful, efficient tools with a unique identity.
 
-🔹 **Experiencia**:  
-Con varios años en el sector tecnológico y de servicios, he trabajado en:
-- Automatización de procesos
-- Desarrollo de métricas y visualizaciones
-- Diseño web
-- Formación y liderazgo de equipos
+🔹 **Experience**:  
+With several years in the technology and service sector, I have worked in:
+- Process automation
+- Metrics and visualization development
+- Web design
+- Training and team leadership
 
-🔹 **Enfoque**:  
-Práctico, estético y orientado a resultados.
+🔹 **Approach**:  
+Practical, aesthetic, and results-oriented.
 
 ---
 
-## 🛠️ Tecnologías & Skills
+## 🛠️ Technologies & Skills
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
 [![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#)
@@ -39,32 +39,32 @@ Práctico, estético y orientado a resultados.
 
 ---
 
-## 🌐 Conéctate conmigo
+## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rominazagordo/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:romizagordo@gmail.com)
 
 ---
 
-## 📈 Estadísticas de GitHub
+## 📈 GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=romarvz&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romarvz&layout=compact&theme=radical)
 
 ---
 
-## 🚩 Proyectos destacados
+## 🚩 Featured Projects
 
-- [Análisis de Datos - Cambio Climático](https://github.com/romarvz/Stanford-Python-Project): Automatización de reportes para área comercial.
-- [Proyecto 2](https://github.com/romarvz/proyecto2): Dashboard interactivo de visualización de datos de clientes.
-- [Proyecto 3](https://github.com/romarvz/proyecto3): Plataforma web para capacitación interna.
+- [Data Analysis - Climate Change](https://github.com/romarvz/Stanford-Python-Project): Automated reports for the commercial area.
+- [Project 2](https://github.com/romarvz/proyecto2): Interactive dashboard for client data visualization.
+- [Project 3](https://github.com/romarvz/proyecto3): Web platform for internal training.
 
 ---
 
-> _“La creatividad es inteligencia divirtiéndose.”_  
+> _“Creativity is intelligence having fun.”_  
 > _– Albert Einstein_
 
 ---
 
-¿Te gustaría colaborar o necesitas ayuda en tus proyectos?  
-¡Contáctame y hagamos algo genial juntos! 🚀
+Would you like to collaborate or need help with your projects?  
+Contact me and let's create something awesome together! 🚀
