@@ -6,6 +6,9 @@ I combine data, technology, and design to create functional, visual, and strateg
 
 ---
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
+
+
 ## 🚀 About Me
 
 Curious, creative, and resourceful professional, passionate about data, technological development, and functional visual design.  
